@@ -201,6 +201,7 @@ const sumAccumulator = (array) => array.map((currentValue = 0, sumValue => curre
   
   // I think where I'm most stuck is on how to return the sum of the numbers continuously within the array. 
   
-  // Slept on it and I think I'm going to need to map over the array to return an array of equal length with modified values. I'm setting sumArray to an empty array that I can push the values to.
-                        // I am trying to figure out how to add the values of the previous index with the next. We'll see how this turns out.
+  // Slept on it and I think I'm going to need to map over the array to return an array of equal length with modified values. 
+  
+  // I still was confused about how to approach it so I was able to find a method that sets a variable currentValue to zero, and the sumValue as the currentValue += sumValue. The += operator is essentially telling the currentValue, which is the running total is the iteration, to add with the sumValue, which is the value of the current index in the iteration.
   
