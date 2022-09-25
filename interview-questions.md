@@ -38,18 +38,18 @@ Researched answer: DOM essentially allows for the ability to get, change, add, o
 
 6. STRETCH: Which is the difference between a div and a span?
 
-Your answer:
+Your answer: I honestly have no clue what the difference is between a div and a span. I know that divs allows us to essentially make containers for different objects within the HTML file. It lets us manipulate the data within the individual divs without affecting any related information within the rest of the file.
 
-Researched answer:
+Researched answer: A span is very similar in function to the div in that they both are used to group related information contained within the HTML file. Div tags allow us to utilize CSS styling in the webpage, while span allows us to apply different text stylings.
 
 ## Looking Ahead: Terms for Next Week
 
-1. Object-oriented programming:
+1. Object-oriented programming: Object-oriented programming is a programming paradigm(model) that relies on the concept of classes and objects. It's main purpose is to make a software program consisting of simple, reusable code by using classes as blueprints for creating objects.
 
-2. Ruby:
+2. Ruby: An Object-oriented programming language created in the early 1990s. It is known for its simplicity and readability with multiple
 
-3. Implicit return:
+3. Implicit return: A built-in Ruby feature that removes the need for a return statement within a method.
 
-4. Ruby blocks:
+4. Ruby blocks: The name of an anonymous function that is passed to a method to determine the outcome. Require the use of do and end to invoke the Ruby block.
 
-5. Ruby hashes:
+5. Ruby hashes: A Ruby hash is a collection of key-value pairs. A hash is similar to an array, except the indexes for the key-value pairs are arbitrary keys of any Ruby object type, where array use integer indexes.
